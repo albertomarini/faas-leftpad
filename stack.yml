@@ -1,3 +1,6 @@
+kind: Node
+
+
 provider:
   name: faas
   provider: faas
