@@ -8,4 +8,6 @@ functions:
     lang: node
     handler: ./handler
     image: alexellis2/faas-leftpad
-
+spec:
+  nodeSelector:
+    type=cloud
