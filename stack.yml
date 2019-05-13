@@ -7,7 +7,7 @@ functions:
   leftpad:
     lang: node
     handler: ./handler
-    image: alexellis2/faas-leftpad
+    image: albertomarini/faas-leftpad
 spec:
   nodeSelector:
     type=cloud
